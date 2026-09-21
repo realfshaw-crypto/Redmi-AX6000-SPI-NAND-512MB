@@ -13,7 +13,7 @@
 |---|---|
 | ubi 分区 | 由原厂 110MB 扩展到 **474MB**，适配 512MB 闪存颗粒 |
 | 目标设备 | 仅编译 `xiaomi_redmi-router-ax6000-stock` 单一设备 |
-| 自动更新 | `update-checker.yml` 每天检查上游分支，有更新自动触发编译 |
+| 自动更新 | `update-checker.yml` 每周一检查上游分支，有更新自动触发编译 |
 
 ## 使用方法
 
@@ -25,7 +25,7 @@
 
 ## 自动更新
 
-`update-checker.yml` 默认每天（北京时间 0 点）检查上游 `2410` 分支：
+`update-checker.yml` 默认**每周一**（北京时间 0 点）检查上游 `2410` 分支：
 - 上游有新提交 → 自动触发一次固件编译
 - 没有新提交 → 跳过，不浪费 Actions 配额
 
@@ -40,4 +40,4 @@
 - `.github/workflows/firmware-build.yml` — 固件编译工作流
 - `.github/workflows/update-checker.yml` — 上游更新检查
 - `firmware_build/ax6000-stock.config` — 编译配置（设备、驱动、软件包）
-- `firmware_build/diy.sh` — 编译前修改（ubi 分区扩容等）
+- `firmware_build/diy.sh` — 编译前修改（ubi 分区扩容、额外软件源、主题等）
