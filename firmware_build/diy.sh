@@ -8,3 +8,6 @@ sed -i 's/reg = <0x600000 0x6e00000>/reg = <0x600000 0x1da00000>/' \
 # 追加软件源（代理类）
 echo 'src-git passwall2 https://github.com/Openwrt-Passwall/openwrt-passwall2' >> feeds.conf.default
 echo 'src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki' >> feeds.conf.default
+
+# 主题：Proton2025（当前正在用的主题，clone 进 package 编译）
+git clone --depth 1 https://github.com/ChesterGoodiny/luci-theme-proton2025 package/luci-theme-proton2025
