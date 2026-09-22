@@ -1,1 +1,79 @@
-IyDnuqLnsbMgQVg2MDAwIMK3IDUxMk1CIOmXquWtmOeJiOWbuuS7tgoKWyFb57yW6K+R54q25oCBXShodHRwczovL2dpdGh1Yi5jb20vcmVhbGZzaGF3LWNyeXB0by9SZWRtaS1BWDYwMDAtU1BJLU5BTkQtNTEyTUIvYWN0aW9ucy93b3JrZmxvd3MvZmlybXdhcmUtYnVpbGQueW1sL2JhZGdlLnN2ZyldKGh0dHBzOi8vZ2l0aHViLmNvbS9yZWFsZnNoYXctY3J5cHRvL1JlZG1pLUFYNjAwMC1TUEktTkFORC01MTJNQi9hY3Rpb25zL3dvcmtmbG93cy9maXJtd2FyZS1idWlsZC55bWwpClshW+acgOaWsOeJiOacrF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9naXRodWIvdi9yZWxlYXNlL3JlYWxmc2hhdy1jcnlwdG8vUmVkbWktQVg2MDAwLVNQSS1OQU5ELTUxMk1CP2luY2x1ZGVfcHJlcmVsZWFzZXMpXShodHRwczovL2dpdGh1Yi5jb20vcmVhbGZzaGF3LWNyeXB0by9SZWRtaS1BWDYwMDAtU1BJLU5BTkQtNTEyTUIvcmVsZWFzZXMpClshW0dpdEh1YiBTdGFyc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9naXRodWIvc3RhcnMvcmVhbGZzaGF3LWNyeXB0by9SZWRtaS1BWDYwMDAtU1BJLU5BTkQtNTEyTUI/c3R5bGU9c29jaWFsKV0oaHR0cHM6Ly9naXRodWIuY29tL3JlYWxmc2hhdy1jcnlwdG8vUmVkbWktQVg2MDAwLVNQSS1OQU5ELTUxMk1CKQoKPiDnuqLnsbMgQVg2MDAw77yIUkIwNu+8ieabtOaNoiA1MTJNQiBTUEkgTkFORCDlkI7nmoQgSW1tb3J0YWxXcnQg5Zu65Lu277yMR2l0SHViIEFjdGlvbnMg5LqR57yW6K+R77yMRm9yayDljbPnlKjvvIzmr4/lkajoh6rliqjot5/ov5vkuIrmuLjjgIIKCiMjIPCfk4wg6YCC55So5YmN5o+QCgotIOW3suWwhiBTUEkgTkFORCDku44gKioxMjhNQiDmm7TmjaLkuLogNTEyTUIqKiDpopfnspIKLSDkv53nlZkqKuWOn+WOgiBzdG9jayDliIbljLoqKu+8jOS4jeaNoiBib290bG9hZGVyCi0g6L+95rGCIE1USyAqKumXrea6kCBXaUZpIOmpseWKqCoq55qE5L+h5Y+35LiO5oCn6IO9Cgo+IOWOn+WOgiAxMjhNQiDmnLrlmajor7fli7/kvb/nlKjvvIzor7fnm7TmjqXliLfkuIrmuLjnmoQgc3RvY2sg5Zu65Lu244CCCgojIyDinKgg54m554K5Cgp8IOeJueaApyB8IOivtOaYjiB8CnwtLS18LS0tfAp8IOmXrea6kCBXaUZpIOmpseWKqCB8IE1USyBtdF93aWZp77yM5L+h5Y+35LiO5oCn6IO95LyY5LqO5byA5rqQ6amx5YqoIHwKfCBzdG9jayDliIbljLrluIPlsYAgfCDkuI3mjaIgYm9vdGxvYWRlcu+8jHN5c3VwZ3JhZGUg55u05Yi3IHwKfCB1Ymkg5omp5a65IHwgMTEwTUIg4oaSIDQ3NE1C77yMNTEyTUIg6aKX57KS5a656YeP5YWo6YOo55So5LiKIHwKfCDkupHnvJbor5EgfCBBY3Rpb25zIOS4iuS4gOmUrue8luivke+8jOS4jeWNoOacrOWcsOi1hOa6kCB8Cnwg6Ieq5Yqo6Lef6L+bIHwg5q+P5ZGo5LiA5qOA5p+l5LiK5ri4IDI0MTAg5YiG5pSv77yM5pyJ5pu05paw5omN6Kem5Y+R57yW6K+RIHwKCiMjIPCfmoAg5b+r6YCf5byA5aeLCgoxLiAqKkZvcmsqKiDmnKzku5PlupPliLDkvaDnmoQgR2l0SHViIOi0puWPtwoyLiDov5vlhaUgKipBY3Rpb25zKiog4oaSIOmAieaLqeOAjCoq57yW6K+R57qi57GzQVg2MDAw5Zu65Lu2KirjgI3ihpIgKipSdW4gd29ya2Zsb3cqKgozLiDnrYnlvoXnvJbor5HlrozmiJDvvIjpgJrluLggMzDigJM2MCDliIbpkp/vvIzlj5blhrPkuo7ljIXmlbDph4/kuI4gcnVubmVyIOeKtuaAge+8iQo0LiDku44gKipSZWxlYXNlKirvvIhgZmlybXdhcmUtKmAg5qCH562+77yJ5oiWICoqQXJ0aWZhY3RzKirvvIhgcmVkbWktYXg2MDAwLTUxMm0tZmlybXdhcmVg77yJ5LiL6L295Zu65Lu2CjUuIOi3r+eUseWZqOWQjuWPsCDihpIg57O757uf5Y2H57qnIOKGkiDkuIrkvKDlm7rku7YgKipzeXN1cGdyYWRlKiog5Yi35YWlCgo+IOWIt+acuuaciemjjumZqe+8jOWKqOaJi+WJjeivt+WFiOWkh+S7veWOn+WOguWbuuS7tuOAggoKIyMg8J+nqSDlhoXnva7lip/og70KCi0gKirmgKfog73kuI7ml6Dnur8qKu+8mlR1cmJvQUNDIE1USyDnoazku7bliqDpgJ/jgIFFUW9TIOmZkOmAn+OAgW10d2lmaS1jZmcg5peg57q/566h55CGCi0gKipETlMg5LiO5Y675bm/5ZGKKirvvJpBZEd1YXJkIEhvbWXjgIFTbWFydEROUwotICoq6L+c56iL566h55CGKirvvJpMdWNreeOAgWRkbnMtZ28g5YaF572R56m/6YCPIC8gREROUwotICoq6L+Q57u055uR5o6nKirvvJp3cnRid21vbiDmtYHph4/nu5/orqHjgIFDUFUgLyBSQU0g54q25oCB44CBdHR5ZCDnvZHpobXnu4jnq6/jgIHlupTnlKjov4fmu6TjgIHlvq7kv6HmjqjpgIEKLSAqKuS4u+mimCoq77yaUHJvdG9uMjAyNe+8iOm7mOiupO+8iSsgQXJnb24KCui9r+S7tuWMheWcqCBbYGZpcm13YXJlX2J1aWxkL2F4NjAwMC1zdG9jay5jb25maWdgXShmaXJtd2FyZV9idWlsZC9heDYwMDAtc3RvY2suY29uZmlnKSDkuK3mjInpnIDlop7lh4/jgIIKCiMjIPCfk4Eg55uu5b2V57uT5p6ECgpgYGAK4pSc4pSA4pSAIC5naXRodWIvd29ya2Zsb3dzLwrilIIgICDilJzilIDilIAgZmlybXdhcmUtYnVpbGQueW1sICAgICAgICMg57yW6K+R5bel5L2c5rWBCuKUgiAgIOKUlOKUgOKUgCB1cGRhdGUtY2hlY2tlci55bWwgICAgICAgIyDmr4/lkajoh6rliqjmo4Dmn6XkuIrmuLgK4pSc4pSA4pSAIGF0Zl91Ym9vdF9idWlsZC8gICAgICAgICAgICAgIyA1MTJNQiDpl6rlrZggQkwyL0ZJUCDooaXkuIHvvIjmlZHnoJbnlKjvvIkK4pSU4pSA4pSAIGZpcm13YXJlX2J1aWxkLwogICAg4pSc4pSA4pSAIGF4NjAwMC1zdG9jay5jb25maWcgICAgICAjIOe8luivkemFjee9ru+8iOiuvuWkh+OAgempseWKqOOAgei9r+S7tuWMhe+8iQogICAg4pSU4pSA4pSAIGRpeS5zaCAgICAgICAgICAgICAgICAgICAjIOe8luivkeWJjeiHquWumuS5ie+8iOWIhuWMuuaJqeWuueOAgei9r+S7tua6kOOAgeS4u+mimO+8iQpgYGAKCiMjIPCflIQg6Ieq5Yqo5pu05pawCgpgdXBkYXRlLWNoZWNrZXIueW1sYCDmr4/lkajkuIAgMDA6MDDvvIjljJfkuqzml7bpl7TvvInmo4Dmn6XkuIrmuLggYDI0MTBgIOWIhuaUr++8muacieaWsOaPkOS6pOaJjeinpuWPkee8luivke+8jOayoeacieWImei3s+i/h++8jOS4jea1qui0uSBBY3Rpb25zIOmFjemineOAguWFs+mXreaWueW8j++8muazqOmHiuaIluWIoOmZpOivpeW3peS9nOa1geOAggoKIyMg8J+nsSDmlZHnoJYKCmJvb3Rsb2FkZXIg5pyq5pS55Yqo77yM5Liy5Y+j6L+e5LiK5ZCO55SoIFtgYXRmX3Vib290X2J1aWxkL2BdKGF0Zl91Ym9vdF9idWlsZCkg6YeM55qEIDUxMk1CIEJMMi9GSVAg6KGl5LiB6YeN5paw5YaZ5YWl5Y2z5Y+v44CCCgojIyDwn5mPIOiHtOiwogoKLSBbaW1tb3J0YWx3cnQtbXQ3OTh4LTYuNl0oaHR0cHM6Ly9naXRodWIuY29tL3BhZGF2YW5vbmx5L2ltbW9ydGFsd3J0LW10Nzk4eC02LjYpIOKAlCBwYWRhdmFub25seSDnmoQgbXQ3OTh4IOa6kOegge+8iOacrOS7k+W6k+WfuuS6juWFtiAyNDEwIOWIhuaUr++8iQotIFtJbW1vcnRhbFdydF0oaHR0cHM6Ly9naXRodWIuY29tL2ltbW9ydGFsd3J0L2ltbW9ydGFsd3J0KSDigJQgT3BlbldydCDliIbmlK8KLSBbbHVjaS10aGVtZS1wcm90b24yMDI1XShodHRwczovL2dpdGh1Yi5jb20vQ2hlc3Rlckdvb2RpbnkvbHVjaS10aGVtZS1wcm90b24yMDI1KSDigJQgTHVDSSDkuLvpopgKCiMjIOKalu+4jyDorrjlj68KCk9wZW5XcnQgLyBJbW1vcnRhbFdydCDnm7jlhbPku6PnoIHmsr/nlKjkuIrmuLggW0dQTC0yLjFdKGh0dHBzOi8vZ2l0aHViLmNvbS9pbW1vcnRhbHdydC9pbW1vcnRhbHdydC9ibG9iL21hc3Rlci9DT1BZSU5HKSDorrjlj6/vvIzku4XkvpvlrabkuaDkuqTmtYHkvb/nlKjjgIIKCi0tLQoK5aaC5p6c6L+Z5Liq5LuT5bqT5biu5Yiw5L2g5LqG77yM5qyi6L+O54K55LiqICoq4q2QIFN0YXIqKiDmlK/mjIHkuIDkuIvjgIIK
+# 红米 AX6000 · 512MB 闪存版固件
+
+[![编译状态](https://github.com/realfshaw-crypto/Redmi-AX6000-SPI-NAND-512MB/actions/workflows/firmware-build.yml/badge.svg)](https://github.com/realfshaw-crypto/Redmi-AX6000-SPI-NAND-512MB/actions/workflows/firmware-build.yml)
+[![最新版本](https://img.shields.io/github/v/release/realfshaw-crypto/Redmi-AX6000-SPI-NAND-512MB?include_prereleases)](https://github.com/realfshaw-crypto/Redmi-AX6000-SPI-NAND-512MB/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/realfshaw-crypto/Redmi-AX6000-SPI-NAND-512MB?style=social)](https://github.com/realfshaw-crypto/Redmi-AX6000-SPI-NAND-512MB)
+
+> 红米 AX6000（RB06）更换 512MB SPI NAND 后的 ImmortalWrt 固件，GitHub Actions 云编译，Fork 即用，每周自动跟进上游。
+
+## 📌 适用前提
+
+- 已将 SPI NAND 从 **128MB 更换为 512MB** 颗粒
+- 保留**原厂 stock 分区**，不换 bootloader
+- 追求 MTK **闭源 WiFi 驱动**的信号与性能
+
+> 原厂 128MB 机器请勿使用，请直接刷上游的 stock 固件。
+
+## ✨ 特点
+
+| 特性 | 说明 |
+|---|---|
+| 闭源 WiFi 驱动 | MTK mt_wifi，信号与性能优于开源驱动 |
+| stock 分区布局 | 不换 bootloader，sysupgrade 直刷 |
+| ubi 扩容 | 110MB → 474MB，512MB 颗粒容量全部用上 |
+| 云编译 | Actions 上一键编译，不占本地资源 |
+| 自动跟进 | 每周一检查上游 2410 分支，有更新才触发编译 |
+
+## 🚀 快速开始
+
+1. **Fork** 本仓库到你的 GitHub 账号
+2. 进入 **Actions** → 选择「**编译红米AX6000固件**」→ **Run workflow**
+3. 等待编译完成（通常 30–60 分钟，取决于包数量与 runner 状态）
+4. 从 **Release**（`firmware-*` 标签）或 **Artifacts**（`redmi-ax6000-512m-firmware`）下载固件
+5. 路由器后台 → 系统升级 → 上传固件 **sysupgrade** 刷入
+
+> 刷机有风险，动手前请先备份原厂固件。
+
+## 🧩 内置功能
+
+- **性能与无线**：TurboACC MTK 硬件加速、EQoS 限速、mtwifi-cfg 无线管理
+- **DNS 与去广告**：AdGuard Home、SmartDNS
+- **远程管理**：Lucky、ddns-go 内网穿透 / DDNS
+- **运维监控**：wrtbwmon 流量统计、CPU / RAM 状态、ttyd 网页终端、应用过滤、微信推送
+- **主题**：Proton2025（默认）+ Argon
+
+软件包在 [`firmware_build/ax6000-stock.config`](firmware_build/ax6000-stock.config) 中按需增减。
+
+## 📁 目录结构
+
+```
+├── .github/workflows/
+│   ├── firmware-build.yml       # 编译工作流
+│   └── update-checker.yml       # 每周自动检查上游
+├── atf_uboot_build/             # 512MB 闪存 BL2/FIP 补丁（救砖用）
+└── firmware_build/
+    ├── ax6000-stock.config      # 编译配置（设备、驱动、软件包）
+    └── diy.sh                   # 编译前自定义（分区扩容、软件源、主题）
+```
+
+## 🔄 自动更新
+
+`update-checker.yml` 每周一 00:00（北京时间）检查上游 `2410` 分支：有新提交才触发编译，没有则跳过，不浪费 Actions 配额。关闭方式：注释或删除该工作流。
+
+## 🧱 救砖
+
+bootloader 未改动，串口连上后用 [`atf_uboot_build/`](atf_uboot_build) 里的 512MB BL2/FIP 补丁重新写入即可。
+
+## 🙏 致谢
+
+- [immortalwrt-mt798x-6.6](https://github.com/padavanonly/immortalwrt-mt798x-6.6) — padavanonly 的 mt798x 源码（本仓库基于其 2410 分支）
+- [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) — OpenWrt 分支
+- [luci-theme-proton2025](https://github.com/ChesterGoodiny/luci-theme-proton2025) — LuCI 主题
+
+## ⚖️ 许可
+
+OpenWrt / ImmortalWrt 相关代码沿用上游 [GPL-2.1](https://github.com/immortalwrt/immortalwrt/blob/master/COPYING) 许可，仅供学习交流使用。
+
+---
+
+如果这个仓库帮到你了，欢迎点个 **⭐ Star** 支持一下。
