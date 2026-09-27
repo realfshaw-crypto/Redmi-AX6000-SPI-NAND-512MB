@@ -65,6 +65,11 @@ jobs:
           ./scripts/feeds update -a
           ./scripts/feeds install -a
 
+      - name: 修复 rust host 构建（保留 vendor/*.orig）
+        run: |
+          cd openwrt
+          python3 $GITHUB_WORKSPACE/firmware_build/fix-rust-orig.py
+
       - name: 载入编译配置
         run: |
           [ -e $CONFIG_FILE ] && cp $CONFIG_FILE openwrt/.config
